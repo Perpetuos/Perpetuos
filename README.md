@@ -1,7 +1,10 @@
-### Hi there 👋
+## Olá! Me Chamo David Ferreira, Seja Bem Vindo!
 
-<!--
-**Perpetuos/Perpetuos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Perpetuos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Perpetuos&layout=compact&langs_count=16&theme=tokyonight"/>
+</div>
 
 Here are some ideas to get you started:
 
@@ -13,4 +16,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
