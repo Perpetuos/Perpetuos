@@ -32,3 +32,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"  height="30" width="40" alt="linux logo"  />
    </div>
   
+  <img src="https://raw.githubusercontent.com/Perpetuos/Perpetuos/blob/output/snake.svg" alt="Snake animation" />
